@@ -4,11 +4,11 @@
 
 作成経過は以下に記載しています。
 
-http://i-doctor.sakura.ne.jp/web/doku.php?id=00.ionic4:01.windows%E3%81%A7ionic%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95
+[WindowsでIonicを始める方法](http://i-doctor.sakura.ne.jp/web/doku.php?id=00.ionic4:01.windows%E3%81%A7ionic%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95)
 
 Netlifyにデプロイしたものは、以下になります。
 
-https://wizardly-bassi-9cce21.netlify.com/tabs/tab1
+https://wizardly-bassi-9cce21.netlify.com/
 
 ## インストール方法
 
